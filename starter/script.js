@@ -39,3 +39,4 @@ const calcTempAmplitude = function (temps) {
     console.log(max,min);
 };
 calcTempAmplitude([3, 7, 4])
+// pushing to the right branch
